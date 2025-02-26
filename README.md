@@ -1,1 +1,1 @@
-# git-workflows
+# git-workflows with auto deployment
